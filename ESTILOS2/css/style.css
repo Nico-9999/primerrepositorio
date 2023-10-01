@@ -1,0 +1,33 @@
+/*formateo devalores por defecto*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 
+    border-box;
+}
+/*Aplicamos estilos al elemento body*/
+body{
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+/*Aplicamos estilos al header*/
+header{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+/*Aplicamos estilos a los enlaces de los headers*/
+
+
+
+header nav a{
+    color: azure;
+    text-decoration: none;
+    margin: 5px;
+}
+
+.container{
+    width: 400px;
+    margin: 400px;
+}
+
